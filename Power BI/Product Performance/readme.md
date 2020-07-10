@@ -1,0 +1,1 @@
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOThmMmY0NjYtY2U2NS00NWRiLTgwYmYtN2MyYjFjNGEyYjA3IiwidCI6ImYyZjUxMzJjLTYxNDctNGI3NC1iYjg2LWNiZDIyOTAyYTc1YyIsImMiOjN9">Product Performance Dashboard is available Online. Please click here.</a>
