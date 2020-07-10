@@ -1,0 +1,1 @@
+<a href="https://app.powerbi.com/viewr=eyJrIjoiZTMyZGE1NjQtOTA5YS00YzM4LTg0YTgtZGM2YjJjZWNkZmQ0IiwidCI6ImYyZjUxMzJjLTYxNDctNGI3NC1iYjg2LWNiZDIyOTAyYTc1YyIsImMiOjN9">Life Insurance Lead Generation Dashboard is available Online. Please click here.</a>
