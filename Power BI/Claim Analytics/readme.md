@@ -1,0 +1,1 @@
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYmE4OTIwYTQtMjI2OC00YTE5LWI1YWYtZDFlM2QwMDNkZDNiIiwidCI6ImYyZjUxMzJjLTYxNDctNGI3NC1iYjg2LWNiZDIyOTAyYTc1YyIsImMiOjN9">Claim Analytics Dashboard is available Online. Please click here.</a>
