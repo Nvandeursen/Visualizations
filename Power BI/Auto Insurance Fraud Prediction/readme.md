@@ -1,0 +1,1 @@
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYzY0ODc2NGQtMGNjNC00YjA2LWI4OGItMmQwODgwN2MyYzU1IiwidCI6ImYyZjUxMzJjLTYxNDctNGI3NC1iYjg2LWNiZDIyOTAyYTc1YyIsImMiOjN9">Auto Insurance Fraud Prediction Dashboard is available Online. Please click here.</a>
